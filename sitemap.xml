@@ -6,7 +6,7 @@
 
     <!-- Main Page -->
     <url>
-        <loc>https://www.seusite.com/</loc>
+        <loc>https://www.datawise.pt/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>1.0</priority>
         <changefreq>weekly</changefreq>
@@ -14,7 +14,7 @@
 
     <!-- Blog Section -->
     <url>
-        <loc>https://www.seusite.com/blog/</loc>
+        <loc>https://www.datawise.pt/blog/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.9</priority>
         <changefreq>weekly</changefreq>
@@ -22,7 +22,7 @@
 
     <!-- Profitability Dashboard -->
     <url>
-        <loc>https://www.seusite.com/blog/dashboard-de-rentabilidade/</loc>
+        <loc>https://www.datawise.pt/blog/dashboard-de-rentabilidade/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
@@ -30,7 +30,7 @@
 
     <!-- Motorhome Rental Company -->
     <url>
-        <loc>https://www.seusite.com/blog/empresa-de-aluguer-de-auto-caravanas/</loc>
+        <loc>https://www.datawise.pt/blog/empresa-de-aluguer-de-auto-caravanas/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
@@ -38,7 +38,7 @@
 
     <!-- Last Mile Delivery Company -->
     <url>
-        <loc>https://www.seusite.com/blog/empresa-de-last-mile-delivery/</loc>
+        <loc>https://www.datawise.pt/blog/empresa-de-last-mile-delivery/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
@@ -46,7 +46,7 @@
 
     <!-- Information Security Policy -->
     <url>
-        <loc>https://www.seusite.com/blog/politicadesegurancainformacao/</loc>
+        <loc>https://www.datawise.pt/blog/politicadesegurancainformacao/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.7</priority>
         <changefreq>yearly</changefreq>
@@ -54,7 +54,7 @@
 
     <!-- Privacy Policy -->
     <url>
-        <loc>https://www.seusite.com/blog/privacidade/</loc>
+        <loc>https://www.datawise.pt/blog/privacidade/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.7</priority>
         <changefreq>yearly</changefreq>
@@ -62,7 +62,7 @@
 
     <!-- Terms of Use -->
     <url>
-        <loc>https://www.seusite.com/blog/termosdeutilizacao/</loc>
+        <loc>https://www.datawise.pt/blog/termosdeutilizacao/</loc>
         <lastmod>2024-11-15</lastmod>
         <priority>0.7</priority>
         <changefreq>yearly</changefreq>
