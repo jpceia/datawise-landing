@@ -7,9 +7,9 @@ Allow: /blog/
 Allow: /blog/dashboard-de-rentabilidade/
 Allow: /blog/empresa-de-aluguer-de-auto-caravanas/
 Allow: /blog/empresa-de-last-mile-delivery/
-Allow: /blog/politicadesegurancainformacao/
-Allow: /blog/privacidade/
-Allow: /blog/termosdeutilizacao/
+Allow: /politicadesegurancainformacao/
+Allow: /privacidade/
+Allow: /termosdeutilizacao/
 
 # Common directories and files to disallow
 Disallow: /wp-admin/
